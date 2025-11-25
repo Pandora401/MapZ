@@ -71,3 +71,12 @@ This tool is perfect for:
 
 ## **🗂️ Project Structure**
 
+MapZ/
+│
+├── dash.py
+├── map.py
+├── tiles/
+├── Assets/
+│ └── Screenshots/
+├── README.md
+└── requirements.txt # Yet to include
