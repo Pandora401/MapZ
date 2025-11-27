@@ -1,6 +1,8 @@
 # **MapZ**
 ### **Mili-Tac Map for DayZ using Python**
 
+![Dashboard](https://raw.githubusercontent.com/Pandora401/MapZ/refs/heads/main/Assets/Screenshots/Updates.PNG)
+
 ![Dashboard](https://raw.githubusercontent.com/Pandora401/MapZ/refs/heads/main/Assets/Screenshots/Capture.PNG)
 
 MapZ is a fully interactive, Pygame-based tactical mapping system inspired by military-style HUDs in DayZ and other survival games.  
